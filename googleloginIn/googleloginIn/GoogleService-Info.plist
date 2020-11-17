@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>249427282740-kvd4vsbp0n07aed575g3ico93f4np643.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.249427282740-kvd4vsbp0n07aed575g3ico93f4np643</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC5Py8V_8R5IKEn6QVczDywyCss86VFT-E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>249427282740</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Ebrahim-Mo-Gedamy.googleloginIn</string>
+	<key>PROJECT_ID</key>
+	<string>signin-88069</string>
+	<key>STORAGE_BUCKET</key>
+	<string>signin-88069.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:249427282740:ios:5242934ffc9d23fd0c3361</string>
+	<key>DATABASE_URL</key>
+	<string>https://signin-88069.firebaseio.com</string>
+</dict>
+</plist>
